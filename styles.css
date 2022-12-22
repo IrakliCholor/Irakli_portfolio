@@ -1,0 +1,44 @@
+h1 {color:azure;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 48px; 
+    margin: 30px; 
+    padding:20px;}
+
+h2 {color:azure;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 24px; 
+    margin: 20px; 
+    padding:20px;}
+
+h3 {color:azure;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 30px; 
+    margin: 30px; 
+    padding:20px;}
+
+p {color: black; 
+    font-family:monospace; 
+    font-size: 18px;
+    border: 1px solid white; 
+    width: 550px; 
+    margin: 40px; 
+    padding:20px;}
+
+a {color: dimgray;
+    font-family: fantasy;
+   background-color: aliceblue;
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+}
+img {margin: 40px;
+    width: 600px;}
+
+audio {margin: 40px;
+    width: 600px;}
+
+iframe {margin: 40px;
+    }
